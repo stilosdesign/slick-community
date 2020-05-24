@@ -1,2 +1,2 @@
-# coginder-community
-Coginder is a micro framework PHP
+# slick-community
+Slick is a micro framework PHP
